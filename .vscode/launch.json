@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "debug",
+            "type": "cppdbg",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "envFile": "${workspaceFolder}/.vscode/.env",
+            "program": "${workspaceFolder}/exec/joke.out",
+            "MIMode": "gdb",
+            "preLaunchTask": "build"
+        }
+    ]
+}

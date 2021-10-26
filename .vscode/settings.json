@@ -1,0 +1,13 @@
+{
+    "C_Cpp.default.cStandard": "c89",
+    "C_Cpp.clang_format_fallbackStyle": "LLVM",
+    "C_Cpp.default.includePath": [
+        "joke/headers",
+        "program/headers"
+    ],
+    "[c]": {
+        "editor.insertSpaces": false,
+        "editor.tabSize": 2
+    },
+    "justMyCode": true
+}
