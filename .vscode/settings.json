@@ -8,6 +8,5 @@
     "[c]": {
         "editor.insertSpaces": false,
         "editor.tabSize": 2
-    },
-    "justMyCode": true
+    }
 }
