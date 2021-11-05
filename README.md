@@ -13,19 +13,18 @@ cd ./c-shared-library
 .
 ├── LICENSE
 ├── README.md
-├── exec
+├── exec # source code for executable 
 │   ├── Makefile
 │   └── sources
-│       ├── main.c
-│       └── main.o
-└── joke
+│       └── main.c
+└── joke # source code for library
     ├── Makefile
     ├── headers
     │   └── joke.h
     └── sources
         └── joke.c
 
-5 directories, 8 files
+5 directories, 7 files
 ```
 
 ## Compile
