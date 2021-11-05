@@ -7,8 +7,8 @@ This is a example implementation that shows how use dynamically linked shared li
 ```bash
 git clone git@github.com:Felix-Quehl/c-shared-library.git
 cd ./c-shared-library
-tree
 ```
+
 ```bash
 .
 ├── LICENSE
